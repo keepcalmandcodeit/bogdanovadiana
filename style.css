@@ -1,0 +1,8 @@
+h1 {text-align: center; color: rgb(216, 46, 54);}
+header {background-color: rgb(87, 244, 255);}
+body {background-color: greenyellow; text-align: center;}
+p {color: indigo;
+font-size: 20px;}
+footer {background-color: orchid;}
+a {padding: 5px; margin: 10px; border: 2px solid orange;border-radius: 15px;
+text-decoration: none; color: rgb(201, 25, 250); background-color: rgb(45, 218, 194);}
